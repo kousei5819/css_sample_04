@@ -1,0 +1,32 @@
+body {
+    background-image: url("../../media/examples/lizard.png");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: hotpink;
+}
+
+header {
+    padding: 80px;
+    height: 120px;
+}
+
+nav {
+    padding: 12px 60px;
+    background-color: yellow;
+    color: rebeccapurple;
+}
+
+article {
+    padding: 80px;
+    min-height : 800px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : yellow;
+    color: rebeccapurple;
+}
